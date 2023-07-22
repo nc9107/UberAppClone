@@ -13,7 +13,7 @@ const data = [
   {
     id: "123",
     icon: "home",
-    location: "home",
+    location: "Home",
     destination: "Code Street, London, UK",
   },
   {
